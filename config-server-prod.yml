@@ -1,0 +1,6 @@
+application:
+  name: config-server
+  
+name: hello world
+
+words: god bless you
